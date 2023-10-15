@@ -34,4 +34,4 @@
 <p>2023.01.26 ~ 2023.1.28 <strong>GreenPoint</strong> - 친환경 마일리지 시스템</p>
 <p>2023.03 ~ 2023.06 <strong>Hanspace</strong> - 공간 대여 플랫폼 서비스</p>
 <p>2023.05.29 ~ 2023.06.08 <strong>Hisstudy</strong> - 한동대학교 전산전자공학부 대상 스터디 매칭 서비스</p>
-<p>2023.08.17 ~ 2023.08.18 <strong>Checkmate</strong> - 체크리스트 공유 SNS 서비스</p>
+<p>2023.08.17 ~ 2023.08.18 <strong>Checkmate</strong> - 체크리스트 공유 서비스</p>
