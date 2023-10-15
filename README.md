@@ -1,26 +1,6 @@
-### Hi there 👋
-
-<!--
-**shinel98/shinel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinel98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![shinel98's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinel98&include_all_commits=true&show_icons=true&theme=radical)
-
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">📚 Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-blue?style=flat-square"/></a>&nbsp 
@@ -37,11 +17,20 @@ Here are some ideas to get you started:
 
 </p>
 
-<h3 align="center">🌈 Contact Me 🌈</h3>
+
+<h3 align="center">🌈 Contact Me </h3>
 
 <p align="center">
   <a href="mailto:inhyeok38@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
 
-
+<h3 align="center">💻 Projects </h3>
+2022.01 [**Socratest**] - MBTI에 따른 공부법 추천 서비스
+2022.03 [**TeampleIn**] - 사이드 프로젝트 인원 모집 서비스
+2022.09.15 ~ 2022.12.01 [**HisPath**] - 교육역량 평가 및 포트폴리오 서비스
+2023.01.01 ~ 2023.01.21 [**FoodHunter**] - 길거리 음식 검색 사이트
+2023.01.26 ~ 2023.1.28 [**GreenPoint**] - 친환경 마일리지 시스템 
+2023.03 ~ 2023.06 [**Hanspace**] - 공간 대여 플랫폼 서비스
+2023.05.29 ~ 2023.06.08 [**Hisstudy**] - 한동대학교 전산전자공학부 대상 스터디 매칭 서비스
+2023.08.17 ~ 2023.08.18 [**Checkmate**] - 체크리스트 공유 SNS 서비스
