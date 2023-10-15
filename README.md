@@ -17,7 +17,6 @@
 
 </p>
 <br/>
-<br/>
 
 
 🌈 Contact Me 
@@ -25,7 +24,7 @@
 <p>
   <a href="mailto:inhyeok38@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
-<br/>
+
 <br/>
 💻 Projects 
 <p>2022.01 <strong>Socratest</strong> - MBTI에 따른 공부법 추천 서비스</p>    
