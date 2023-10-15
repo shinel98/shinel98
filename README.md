@@ -1,7 +1,7 @@
 
 
-<h3 align="center">📚 Tech Stack </h3>
-<p align="center">
+📚 Tech Stack 
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-blue?style=flat-square"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -18,9 +18,9 @@
 </p>
 
 
-<h3 align="center">🌈 Contact Me </h3>
+🌈 Contact Me 
 
-<p align="center">
+<p>
   <a href="mailto:inhyeok38@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
