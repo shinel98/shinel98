@@ -2,7 +2,7 @@
 💁‍♂️ Experiences
 <p>2022.03 ~ 2023.06 <strong>WALAB 연구랩실원</strong></p>
 <p>2023.03 ~ <strong>멋쟁이사자처럼 대학 대표</strong></p>
-
+<br/>
 
 📚 Tech Stack 
 <p>
@@ -20,14 +20,14 @@
    
 
 </p>
-
+<br/>
 
 🌈 Contact Me 
 
 <p>
   <a href="mailto:inhyeok38@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
-
+<br/>
 
 💻 Projects 
 
