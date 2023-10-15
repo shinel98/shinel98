@@ -1,4 +1,8 @@
 
+💁‍♂️ Experiences
+<p>2022.03 ~ 2023.06 <strong>WALAB 연구랩실원</strong></p>
+<p>2023.03 ~ <strong>멋쟁이사자처럼 대학 대표</strong></p>
+
 
 📚 Tech Stack 
 <p>
@@ -35,3 +39,6 @@
 <p>2023.03 ~ 2023.06 <strong>Hanspace</strong> - 공간 대여 플랫폼 서비스</p>
 <p>2023.05.29 ~ 2023.06.08 <strong>Hisstudy</strong> - 한동대학교 전산전자공학부 대상 스터디 매칭 서비스</p>
 <p>2023.08.17 ~ 2023.08.18 <strong>Checkmate</strong> - 체크리스트 공유 서비스</p>
+
+
+
