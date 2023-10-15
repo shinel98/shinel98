@@ -1,7 +1,7 @@
 
 💁‍♂️ Experiences
 <p>2022.03 ~ 2023.06 <strong>WALAB 연구랩실원</strong></p>
-<p>2023.03 ~ 2023.12.15 <strong>멋쟁이사자처럼 대학 대표</strong></p>
+<p>2023.03 ~ 2023.12.15 <strong>LIKELION UNIV 대표</strong></p>
 <br/>
 
 📚 Tech Stack 
