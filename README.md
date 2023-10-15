@@ -24,7 +24,7 @@
   <a href="mailto:inhyeok38@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-<p class="has-line-data" data-line-start="27" data-line-end="29">&lt;h3 align=“center”&gt;💻 Projects &lt;/h3&gt;<br>
+💻 Projects 
 2022.01 Socratest - MBTI에 따른 공부법 추천 서비스</p>
 <p class="has-line-data" data-line-start="30" data-line-end="31">2022.03 TeampleIn - 사이드 프로젝트 인원 모집 서비스</p>
 <p class="has-line-data" data-line-start="32" data-line-end="33">2022.09.15 ~ 2022.12.01 HisPath - 교육역량 평가 및 포트폴리오 서비스</p>
