@@ -25,7 +25,7 @@
 </p>
 
 💻 Projects 
-2022.01 Socratest - MBTI에 따른 공부법 추천 서비스</p>
+<p>2022.01 Socratest - MBTI에 따른 공부법 추천 서비스</p>
 <p class="has-line-data" data-line-start="30" data-line-end="31">2022.03 TeampleIn - 사이드 프로젝트 인원 모집 서비스</p>
 <p class="has-line-data" data-line-start="32" data-line-end="33">2022.09.15 ~ 2022.12.01 HisPath - 교육역량 평가 및 포트폴리오 서비스</p>
 <p class="has-line-data" data-line-start="34" data-line-end="35">2023.01.01 ~ 2023.01.21 FoodHunter - 길거리 음식 검색 사이트</p>
