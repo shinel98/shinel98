@@ -22,13 +22,6 @@
 </p>
 <br/>
 
-🌈 Contact Me 
-
-<p>
-  <a href="mailto:inhyeok38@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
-<br/>
-
 💻 Projects 
 
 <p>2022.01 <strong>Socratest</strong> - MBTI에 따른 공부법 추천 서비스</p>    
@@ -39,6 +32,11 @@
 <p>2023.03 ~ 2023.06 <strong>Hanspace</strong> - 공간 대여 플랫폼 서비스</p>
 <p>2023.05.29 ~ 2023.06.08 <strong>Hisstudy</strong> - 한동대학교 전산전자공학부 대상 스터디 매칭 서비스</p>
 <p>2023.08.17 ~ 2023.08.18 <strong>Checkmate</strong> - 체크리스트 공유 서비스</p>
+<br/>
 
 
+🌈 Contact Me 
 
+<p>
+  <a href="mailto:inhyeok38@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
